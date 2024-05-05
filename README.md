@@ -4,9 +4,6 @@ This Project is a fork of Ethereum and demostrates how you can build your own NF
 
 ![Preview](preview.gif)
 
-# ⭐️ `Star me`
-If this helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
-
 # 🚀 Quick Start
 
 📄 Clone or fork `ethereum-nft-marketplace`
